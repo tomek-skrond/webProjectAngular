@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+@font-face{
+	font-family: MyFont;
+	src: url(Fonts/Oswald-Light.ttf);
+}
+body{
+    font-size: 18px;
+	font-family: MyFont;
+    background: url("E:/WebProject/web-proj/src/Images/wiezowiec.jpg") no-repeat fixed center;
+}
